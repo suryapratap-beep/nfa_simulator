@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS metadata
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Generated files by NFA simulator
+nfa_graph
+nfa_graph.png
+
